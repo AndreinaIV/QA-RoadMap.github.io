@@ -66,3 +66,16 @@ body {
     border-radius: 10px;
   }
   
+  /* Estilo específico para la sección "fundamentos" */
+#fundamentos {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Estilo específico para la sección "casos-de-uso" */
+#casos-de-uso {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+}
