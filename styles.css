@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #232323, #1a1a1a); /* Cambia los colores según tus preferencias */
+    color: #ffffff;
+  }
+  
+  #section-andreina,
+  #section-johan,
+  #section-daniel {
+    padding: 40px;
+  }
+  
+  h1, h2, h3, h4 {
+    color: #00bcd4; /* Color azul para títulos */
+  }
+  
+  p {
+    color: #ffffff;
+  }
+  
+  ul, ol {
+    color: #ffffff;
+    list-style: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #4caf50; /* Color verde para enlaces */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo específico para la sección "rama-seleccion-de-herramientas" */
+  #rama-seleccion-de-herramientas {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Estilo específico para la sección "rama-ejemplos-practicos" */
+  #rama-ejemplos-practicos {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Estilo específico para la sección "rama-seleccion-de-lenguaje" */
+  #rama-seleccion-de-lenguaje {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Estilo específico para la sección "rama-integracion-agil" */
+  #rama-integracion-agil {
+    background: #333333; /* Color de fondo oscuro */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
