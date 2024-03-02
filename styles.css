@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg, #232323, #1a1a1a);
+    color: #ffffff;
+}
+
+#section-andreina,
+#section-johan,
+#section-daniel {
+    padding: 40px;
+}
+
+h1, h2, h3, h4 {
+    color: #00bcd4;
+}
+
+p, ul, ol {
+    color: #ffffff;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #4caf50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilo para las secciones */
+#section-andreina > div,
+#section-johan > div,
+#section-daniel > div {
+    background: #333333;
+    padding: 20px;
+    border-radius: 10px;
+}
